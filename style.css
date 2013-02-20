@@ -1,6 +1,7 @@
 *{
 	font-family: open sans,arial;
 	margin: 0;
+	border: none;
 }
 
 #hijaumuda{
@@ -52,6 +53,23 @@ small{
 	color:#8d8d8d;
 }
 
+table{
+	margin-left: 20px;
+}
+input[type="text"]{
+	height: 25px;
+	width: 80%;	
+}
+td{
+	height: 35px;
+}
+select{
+	height: 25px;
+}
+textarea{
+	width: 80%;
+	height: 100px;
+}
 
 @font-face {
     font-family: 'museofont';
